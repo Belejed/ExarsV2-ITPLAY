@@ -55,7 +55,7 @@ html, body
     justify-items: flex-end;
     z-index: 10000;
     color: #f0c9ba;
-    padding: 4em 0.4em;
+    padding: 4em 0.3 em;
     font-size: 10vw;
     font-family: verona;
 }
@@ -331,7 +331,7 @@ h2
 
 .footer
 {
-    padding-top: 30px;
+    padding-top: 50px;
     padding: 30px 100px;
     background-color: #C64E2F;
     align-items: center;
